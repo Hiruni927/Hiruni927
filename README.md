@@ -1,16 +1,46 @@
+![banner](banner.png)
 ## Hi there 👋
 
-<!--
-**Hiruni927/Hiruni927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hiruni
 
-Here are some ideas to get you started:
+Computer Science Undergraduate  
+Still learning and building real-world projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+I am focused on developing practical skills in software development while exploring data, artificial intelligence, and UI/UX design.
+
+---
+
+## Interests
+- Data Analyst Path  
+- UI/UX Design  
+- Artificial Intelligence  
+- Software Development  
+
+---
+
+## Skills
+- SQL  
+- Data Warehousing  
+- Git & GitHub  
+- Basic UI/UX Principles  
+- Data Analysis Fundamentals  
+
+---
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiruni927)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiruni927)
+
+---
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/hiruni-geenadi-a2a039328  
+- Medium: https://medium.com/@hirunigeenadi  
+
+---
+
+Always learning and improving
